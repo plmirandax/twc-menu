@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'La Maison - Fine Dining Restaurant',
-  description: 'Experience exceptional French cuisine in an elegant setting',
+  title: 'Dolores Tropicana Resort',
+  description: 'The perfect getaway to the city.',
 };
 
 export default function RootLayout({

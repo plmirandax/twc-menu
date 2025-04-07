@@ -47,7 +47,7 @@ export default function Home() {
         </div>
         <div className="relative z-10 text-center text-white px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-4">Dolores Tropicana Resort</h1>
-          <p className="text-xl md:text-2xl mb-8">Your Tropical Paradise in General Santos City</p>
+          <p className="text-xl md:text-2xl mb-8">The perfect getaway within the city.</p>
           <div className="flex gap-4 justify-center">
             <a
               href="#rooms"
@@ -410,7 +410,7 @@ export default function Home() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="w-4 h-4" />
-                  info@dolorestropicana.com
+                  info@doloreshotels.com.ph
                 </li>
               </ul>
             </div>
